@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<value name="framework">
+	<value name="customize">
+		<value name="enable-animations" value="true"/>
+		<value name="enable-icons" value="true"/>
+		<value name="enable-tooltips" value="true"/>
+		<value name="sort-method" value="0"/>
+		<value name="standalone-tool-widgets" value="false"/>
+	</value>
+	<value name="documentation">
+		<value name="reuse-window" value="true"/>
+		<value name="use-builtin" value="true"/>
+	</value>
+	<value name="extensions">
+		<value name="asdbc" value="asdbc"/>
+		<value name="awc" value="awc"/>
+		<value name="c" value="c"/>
+		<value name="coverage_database" value="acdb"/>
+		<value name="cpp" value="cpp;cc"/>
+		<value name="dataflow" value="adc"/>
+		<value name="dataset" value="hdb;asdb"/>
+		<value name="design" value="rdsn"/>
+		<value name="edif" value="edn;edf;edo"/>
+		<value name="fsm" value="fsm"/>
+		<value name="h" value="h"/>
+		<value name="histogram" value="hist"/>
+		<value name="hpp" value="hpp;hh"/>
+		<value name="html" value="html;htm"/>
+		<value name="image" value="image"/>
+		<value name="library" value="lib"/>
+		<value name="macro" value="do;tcl"/>
+		<value name="memory" value="hex;mif;mem"/>
+		<value name="perl" value="pl;pm"/>
+		<value name="picture" value="jpg;jpeg;png;gif;bmp;svg;webp"/>
+		<value name="plot" value="plot"/>
+		<value name="profiler_database" value="tbp"/>
+		<value name="psl" value="psl"/>
+		<value name="sdf" value="sdf;sdo"/>
+		<value name="systemverilog" value="sv;svp"/>
+		<value name="systemverilogheader" value="svh;vh"/>
+		<value name="testplan" value="tpe"/>
+		<value name="text" value="txt;log"/>
+		<value name="verilog" value="v;vei;veo;vo;vm;vmd;vlb;vlg;vqm;vq;vl;vt;vp"/>
+		<value name="vhdl" value="vhd;vhdl;vhq;tvhd;vho;vhm;vhi;vhn;vhs;vhdp"/>
+		<value name="workspace" value="rwsp"/>
+	</value>
+	<value name="notifications">
+		<value name="enable" value="true"/>
+		<value name="enable-console" value="false"/>
+		<value name="enable-window" value="true"/>
+		<value name="number-of-recent" value="25"/>
+		<value name="window-visibility-time" value="3"/>
+	</value>
+	<value name="recent">
+		<value name="directories" value="/home/runner;"/>
+		<value name="files"/>
+		<value name="visited-path"/>
+		<value name="workspaces"/>
+	</value>
+</value>
