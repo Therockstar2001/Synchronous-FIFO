@@ -1,0 +1,2 @@
+  CREATE_STREAM @95000 {NAME:seq T:Transactions SCOPE:uvm_test_top.env.agt.seqr STREAM:640}
+  CREATE_STREAM @8185000 {NAME:drain_seq T:Transactions SCOPE:uvm_test_top.env.agt.seqr STREAM:2260}
