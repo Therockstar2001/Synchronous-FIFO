@@ -1,4 +1,4 @@
-# Reusable UVM Verification Environment for Parameterized Synchronous FIFO
+# Reusable UVM Verification Environment for a Parameterized Synchronous FIFO with Coverage-Driven and Assertion-Based Verification
 
 ## Overview
 This project implements a **parameterized synchronous FIFO** in SystemVerilog along with a **UVM-based verification environment** developed in multiple phases.  
