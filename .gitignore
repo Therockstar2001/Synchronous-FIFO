@@ -1,0 +1,46 @@
+# ============================================================
+# Aldec Riviera-PRO generated files/directories
+# ============================================================
+
+.aldec/
+work/
+
+*.asdb
+*.acdb
+*.log
+*.vcd
+
+# Riviera-PRO generated configuration
+library.cfg
+
+# Aldec generated launcher/environment file
+aldec
+
+# ============================================================
+# Shell / local environment files
+# ============================================================
+
+.bash_logout
+.bash_profile
+.bashrc
+.flexlmrc
+
+# ============================================================
+# Temporary/editor files
+# ============================================================
+
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+.vscode/
+.idea/
+
+# ============================================================
+# OS-generated files
+# ============================================================
+
+.DS_Store
+Thumbs.db
